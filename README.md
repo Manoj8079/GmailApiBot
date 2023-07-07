@@ -11,21 +11,13 @@ Before running the application, make sure you have the following prerequisites:
 
 ## Installation
 
-
-
-1. Navigate to the project directory:
-
-    ```
-    cd gmail-auto-reply
-    ```
-
-2. Install dependencies using npm:
+1. Install dependencies using npm:
 
     ```
     npm install
     ```
 
-3. Add your Gmail API credentials:
+2. Add your Gmail API credentials:
 
     - create the credentials.json file.
     - Replace path/to/your/credentials.json with the actual path to your Gmail API credentials JSON file.
